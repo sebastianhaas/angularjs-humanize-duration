@@ -1,5 +1,5 @@
 # angularjs-humanize-duration
-AngularJS filters wrapping the [humanize-duration](https://github.com/EvanHahn/HumanizeDuration.js) library. 
+AngularJS filter wrapping the [humanize-duration](https://github.com/EvanHahn/HumanizeDuration.js) library. 
 
 ## Installation
 
