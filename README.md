@@ -1,4 +1,6 @@
 # angularjs-humanize-duration
+[![Bower version](https://badge.fury.io/bo/angularjs-humanize-duration.svg)](http://badge.fury.io/bo/angularjs-humanize-duration)
+
 AngularJS filter wrapping the [humanize-duration](https://github.com/EvanHahn/HumanizeDuration.js) library. 
 
 ## Installation
