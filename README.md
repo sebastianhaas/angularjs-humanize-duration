@@ -11,7 +11,7 @@ Install via bower:
 
 Call from your `index.html`:
 
-    <script src="bower_components/humanize/humanize.js"></script>
+    <script src="bower_components/humanize-duration/humanize-duration.js"></script>
     <script src="bower_components/angularjs-humanize-duration/src/angular-humanize-duration.js"></script>
 
 And then add it as a dependency:
